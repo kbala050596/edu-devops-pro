@@ -1,7 +1,7 @@
 #!/bin/bash
 
-a=522
-b=723
+a=5221
+b=7231
 
 sum=a+b
 echo sum
